@@ -17,3 +17,9 @@ Level 3: 1-10000
 
 
 You'll have to guess the number between the range.
+
+# Things-to-mind
+Please press 'yes' as a whole letter to proceed to the game.
+
+You'll have to choose between the 3 levels to proceed. If chosen other, the game will end.
+
